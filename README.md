@@ -1,5 +1,10 @@
 # ⚓ Anchor Survey Tool
 
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17560648.svg)](https://doi.org/10.5281/zenodo.17560648) <br>
+@author: Andrew Reed <br>
+@email: areed@whoi.edu
+
 Interactive Python tool for estimating seafloor anchor positions from ship survey data.
 
 ---
