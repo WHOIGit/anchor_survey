@@ -130,4 +130,4 @@ This project is released under the BSD-3-clause License
 
 If you use this tool in a publication, please cite:
 
-> Reed, A. (2025). Anchor Triangulation Tool: Python Implementation of Acoustic Survey Positioning. GitHub Repository. https://github.com/reedan88/anchor_survey
+Andrew Reed. (2025). WHOIGit/anchor_survey: v0.1.0-2025-11-08 (v0.1.0-2025-11-8). Zenodo. https://doi.org/10.5281/zenodo.17560648
